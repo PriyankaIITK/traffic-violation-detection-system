@@ -15,8 +15,8 @@ The system processes traffic videos, identifies violations, and captures evidenc
 
 ## 🚀 Explore Modules  
 
-- 👉 [Helmet Violation Detection](https://github.com/ankit-0134/helmet-violation-detector)  
-- 👉 [Seatbelt Violation Detection](https://github.com/ankit-0134/seatbelt-violation-detection)
+- 👉 [Helmet Violation Detection](https://github.com/PriyankaIITK/helmet-violation-detector)  
+- 👉 [Seatbelt Violation Detection](https://github.com/PriyankaIITK/seatbelt-violation-detector)
 
 ---
 
